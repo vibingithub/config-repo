@@ -8,7 +8,7 @@ map:
 mail:
   server:
     url: http://url-config-server
-    port: 900
-    userName: dummy
-    password: pass
+    port: 8252
+    userName: dummy-changed
+    password: pass-changed
 
