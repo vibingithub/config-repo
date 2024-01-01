@@ -11,4 +11,10 @@ mail:
     port: 8252
     userName: dummy-changed
     password: pass-changed
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
 
