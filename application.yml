@@ -7,13 +7,8 @@ map:
 
 mail:
   server:
-    url: http://testUrl
+    url: http://url-config-server
     port: 900
     userName: dummy
     password: pass
-    
-management:
-  endpoints:
-    web:
-      exposure:
-        include: configprops
+
